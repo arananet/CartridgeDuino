@@ -58,7 +58,3 @@ If you like the project, buy me a beer or a Mercedes Benz SLR whatever you want 
 This is the arduino used in the board.
 
 https://es.aliexpress.com/store/product/Freeshipping-Nano-3-0-controller-compatible-for-arduino-nano-CH340-USB-driver-NO-CABLE/731260_32341832857.html?spm=a219c.search0104.3.1.142e11c3RzMxTN&ws_ab_test=searchweb0_0,searchweb201602_3_10152_10151_10065_10344_10068_10547_10342_10343_10340_10548_10341_10696_5011015_10084_5010915_10083_10618_10307_10820_10301_10821_10303_10869_10868_10059_100031_10103_10624_10623_10622_10621_10620,searchweb201603_45,ppcSwitch_5&algo_expid=640ed1a6-ad12-4a2c-ab1d-79a6ba737643-0&algo_pvid=640ed1a6-ad12-4a2c-ab1d-79a6ba737643&priceBeautifyAB=0
-
-This are the DPDT switches that are maybe compatible with the footprint:
-
-https://es.aliexpress.com/store/product/70pcs-On-Off-On-6-Pin-DPDT-Vertical-Mini-SMD-SMT-Slide-Power-Switch-7x6x4mm/1178755_1953364266.html?spm=a219c.search0104.3.146.287176b1h1eqtT&ws_ab_test=searchweb0_0,searchweb201602_4_10152_10065_5722813_10151_10344_10068_10342_5722613_10547_10343_5722913_10340_10341_10548_10698_10697_10696_10084_10083_5722713_10618_10307_10301_10303_5711213_10059_10184_308_100031_10103_441_10624_10623_10622_10621_10620_5722513_5711313,searchweb201603_15,ppcSwitch_5&algo_expid=6e95ecf1-40f5-4b5b-8649-c467855a15c0-22&algo_pvid=6e95ecf1-40f5-4b5b-8649-c467855a15c0&transAbTest=ae803_1&priceBeautifyAB=0
