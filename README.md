@@ -15,13 +15,9 @@ This is a work in progress, several testing must be made but it should work as i
 
 If you like the project, buy me a beer or a Mercedes Benz SLR whatever you want :) - info@arananet.net
 
-# Audio Amp
-
-Since is not very clear if there is necessary a output amp, I have added a little DPDT, one position switch to bypass or enable the D9 signal to the AMP LM386. The other position will connect the D9 signal directly to the 3.5mm jack. 
-
 # Images
 
-<img src="https://github.com/arananet/Cartridge/blob/master/images/top.png?raw=true" width="700">
+<img src="https://github.com/arananet/CartridgeDuino/blob/master/images/top1.png?raw=true" width="700">
 
 # Instructions
  
@@ -42,19 +38,13 @@ Since is not very clear if there is necessary a output amp, I have added a littl
 | C2            | 10uf/22uf               | C0805K                         |
 | C3            | 0.22uF                  | C0805K                         |
 | C4            | 10uf                    | C0805K                         |
-| C5            | 220uf (ECA-0JM221)      | CPOL-EUE1.8-4 (only with amp)  |
 | M1            | ARDUINO NANO            | PCB                            |
 | IC1           | 4050D                   | SO16                           |
-| IC4           | LM386M-1                | SO08 (only if amp required)    |
-| TTL           | PINHD_1X04              | 1X04                           |
 | JP1           | OLED SCREEN CONNECTOR   | 1X04_ROUND                     |
 | POWER         | SMD 0805 LED            | CHIP-LED0805                   |
 | ACT           | SMD 0805 LED            | CHIP-LED0805                   |
-| R1            | 10K TrimPotentiometer   | RTRIM3103   (only with amp)    |
 | R2 (FOR LED)  | 330/560/1K              | R0805                          |
 | R3 (FOR LED)  | 330/560/1K              | R0805                          |
-| R4            | 10K                     | R0805 (only with amp)          |
-| R5            | 10K                     | R0805 (only with amp)          |
 | PLAY          | PUSH BUTTON             | B3F-31XX                       |
 | DOWN          | PUSH BUTTON             | B3F-31XX                       |
 | ROOT          | PUSH BUTTON             | B3F-31XX                       |
@@ -63,7 +53,7 @@ Since is not very clear if there is necessary a output amp, I have added a littl
 | SD1           | MicroSD socket          | TF-PULL                        |
 | X1            | STEREOJACK 3.5mm        | STX3100                        |
 | X2            | STEREOJACK 2.5mm        | PJ-204B                        |
-| S1            | DPDT Switch             | AYZ0202                        |
+
 
 This is the arduino used in the board.
 
