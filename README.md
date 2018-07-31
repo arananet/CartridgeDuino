@@ -17,7 +17,7 @@ If you like the project, buy me a beer or a Mercedes Benz SLR whatever you want 
 
 # Images
 
-<img src="https://github.com/arananet/CartridgeDuino/blob/master/images/top1.png?raw=true" width="700">
+<img src="https://github.com/arananet/CartridgeDuino/blob/master/images/top2.png?raw=true" width="700">
 
 # Instructions
  
