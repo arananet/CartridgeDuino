@@ -3,7 +3,7 @@ A MSX version of the TZXDUINO made by @edu_arana and coworked with @jgilcas.
 
 Based on the original design of Andrew Beer, Duncan Edwards.
 
-This CartridgeDuino / tzxduino version has been made to act as an MSX cartridge but only to take the power +5V and GND from the MSX connector and use it on the board. Also the arduino pro mini has been replaced with a NANO to make easy to upgrade. I have used part of my TZXDUINO RELOADED for this.
+This CartridgeDuino / tzxduino version has been made to act as an MSX cartridge but only to take the power +5V and GND from the MSX connector and use it on the board. Also the arduino pro mini has been replaced with a NANO to make easy to upgrade. I have used parts of my TZXDUINO RELOADED design for this.
 
 # Works with
 
