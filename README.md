@@ -17,7 +17,7 @@ If you like the project, buy me a beer or a Mercedes Benz SLR whatever you want 
 
 # Images
 
-<img src="https://github.com/arananet/CartridgeDuino/blob/master/images/top2.png?raw=true" width="700">
+<img src="https://github.com/arananet/CartridgeDuino/blob/master/images/top3.png?raw=true" width="700">
 
 # Instructions
  
@@ -27,7 +27,7 @@ If you like the project, buy me a beer or a Mercedes Benz SLR whatever you want 
 4. Plug an MicroSD card with all the files and enjoy the power of the TzxDuino!
 
 # Updates
-
+01/08/2018 Fixed jacks positions, changed oled 128x64 for 128x32.
 31/07/2018 Initial release.
 
 # Bill of materials
