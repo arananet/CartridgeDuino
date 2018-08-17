@@ -34,10 +34,6 @@ If you like the project, buy me a beer or a Mercedes Benz SLR whatever you want 
 
 | Part          | Value                   | Package                        |
 | ------------- | ----------------------- | ------------------------------ | 
-| C1            | 10uf/22uf               | C0805K                         |
-| C2            | 10uf/22uf               | C0805K                         |
-| C3            | 0.22uF                  | C0805K                         |
-| C4            | 10uf                    | C0805K                         |
 | M1            | ARDUINO NANO            | PCB                            |
 | IC1           | 4050D                   | SO16                           |
 | JP1           | OLED SCREEN CONNECTOR   | 1X04_ROUND                     |
