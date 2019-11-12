@@ -27,6 +27,7 @@ If you like the project, buy me a beer or a Mercedes Benz SLR whatever you want 
 4. Plug an MicroSD card with all the files and enjoy the power of the TzxDuino!
 
 # Updates
+12/11/2019: Updated license stuff (I usually not do this but I must start it with this).
 01/08/2018 Fixed jacks positions, changed oled 128x64 for 128x32.
 31/07/2018 Initial release.
 
@@ -54,3 +55,16 @@ If you like the project, buy me a beer or a Mercedes Benz SLR whatever you want 
 This is the arduino used in the board.
 
 https://es.aliexpress.com/store/product/Freeshipping-Nano-3-0-controller-compatible-for-arduino-nano-CH340-USB-driver-NO-CABLE/731260_32341832857.html?spm=a219c.search0104.3.1.142e11c3RzMxTN&ws_ab_test=searchweb0_0,searchweb201602_3_10152_10151_10065_10344_10068_10547_10342_10343_10340_10548_10341_10696_5011015_10084_5010915_10083_10618_10307_10820_10301_10821_10303_10869_10868_10059_100031_10103_10624_10623_10622_10621_10620,searchweb201603_45,ppcSwitch_5&algo_expid=640ed1a6-ad12-4a2c-ab1d-79a6ba737643-0&algo_pvid=640ed1a6-ad12-4a2c-ab1d-79a6ba737643&priceBeautifyAB=0
+
+# License
+
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
+International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
