@@ -1,5 +1,7 @@
 # CartridgeDuino
-A MSX version of the TZXDUINO made by @edu_arana and coworked with @jgilcas.
+
+A MSX version of the TZXDUINO.
+Designed by @edu_arana | coworked with @jgilcas & @pablibiris
 
 Based on the original design of Andrew Beer, Duncan Edwards.
 
